@@ -2,6 +2,7 @@ import MainContent from './components/MainContent';
 import logo from './assets/images/logo.png';
 
 // Learning Cancelling workflows
+// Learning Skipping workflows
 function App() {
   return (
     <>
